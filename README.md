@@ -21,6 +21,6 @@ Mobile App User Manual (Canva)
 Mobile App User Manual URL Link: https://www.canva.com/design/DAGJQHZVThw/oiiahSK2Ez5KKcjIrbb5aQ/view?utm_content=DAGJQHZVThw&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 TODO:
-[❌] Website Screenshots
+[✔] Website Screenshots
 [❌] Mobile App Screenshots
-[❌] User Manual Screenshots
+[✔] User Manual Screenshots
