@@ -22,5 +22,5 @@ Mobile App User Manual URL Link: https://www.canva.com/design/DAGJQHZVThw/oiiahS
 
 TODO:
 [✔] Website Screenshots
-[❌] Mobile App Screenshots
+[✔] Mobile App Screenshots
 [✔] User Manual Screenshots
